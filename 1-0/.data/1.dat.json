@@ -1,0 +1,39 @@
+{
+    "baselines": [
+        {
+            "blob": null,
+            "detector": "Cup"
+        },
+        {
+            "blob": null,
+            "detector": "SEM"
+        }
+    ],
+    "commit": "c2dacc29adeea66f7bb22bca2fa2479daab09c7f",
+    "encoding": "base64",
+    "format": ">ff",
+    "signals": [
+        {
+            "blob": "QWT2DkccnLlBdjJdRxya0kGDlKRHHJrWQYwVXEcceHdBlJclRxyMekGdF+1HHF+tQaWYvUccfGFBrhUGRxyNcUG2lgVHHJFaQb8ZDEcciaNBx5rCRxxrMUHQFllHHH1WQdiXYEccg/lB4ROcRxx6fEHplcpHHDTFQfIXy0ccQFBB+pRXRxxsJUIBi6ZHHHO6QgXNuUccc7VCCgwzRxx5j0IOSwhHHGszQhKPikcce3BCFstZRxxmdkIbDGtHG/mfQh9MQEccFWhCI4waRxxZDkInythHHB3tQiwL8UccJpdCMEycRxxDJUI0iltHHC8cQjjZ90ccN59CPRsYRxxfr0JBXDhHG/ixQkWaf0ccGTFCSdoYRxxMnEJOGrxHHE5+QlJbukccVy5CVpzHRxxVSEJa3KRHHD5lQl8b20cb/ZZCY1vXRxwtNEJnmcdHHB7bQmvcwEccIbNCcBxIRxwnjEJ0XjNHG/ToQniqEEccLilCfOsORxuFakKAle1HHDAPQoK2BUccPIJChNUfRxwd50KG9w9HHCtRQokc8kccMuJCiz4yRxwSkEKNXYhHHCh+Qo99mkccLx1CkZ18RxvvOkKTvfFHHCOVQpXecUccIqRCl/3gRxwe3kKaHZRHHC8YQpw/E0ccHAJCnmUnRxwNq0KghapHHAQ4QqKmM0cbxFVCpMWjRxvPp0Km7OdHHBCxQqkOFEccAV1Cqy5BRxufGkKtTQ1HG+erQq91nUccBSZCsZ2qRxu+rEKzvWtHG+HRQrXd/kcb/KVCuAXKRxvvPEK6LZ9HG3rJQrxOW0cb565Cvm0XRxvsZ0LAjVZHG+HOQsKuRkcbxUVCxNXWRxv4sELG9ORHG+etQskVKkcbxUdCyzYVRxug/0LNVtVHG+HQQs92g0cb06hC0ZXqRxvdGULTvgNHG9wnQtXdfEcbzcZC2AW+RxvWd0LaLVJHG8zUQtxN8Ucb3vhC3m11RxvcJULglotHG5HnQuK1KUcb0YpC5NWdRxvWeELm9WtHG9GMQukVe0cbzrpC6zYmRxuRp0LtVPZHG2rHQu990UcbZORC8Z5SRxu180LzvrtHGzVEQvXc+EcbnihC9/0wRxuvWkL6HsNHG7QUQvxE+UcbixBC/mU9RxudNEMARtpHG4CyQwFavkcbj8dDAm9IRxuzHkMDgoBHG6jEQwSXBUcbsyRDBaffRxui4UMGtvxHG2rCQwfGy0cbj8RDCNb9RxuO1UMJ5p5HG5eQQwr7DUcbnTdDDA85RxuEdUMNHrFHG33Z",
+            "detector": "Cup",
+            "isotope": "He4"
+        },
+        {
+            "blob": null,
+            "detector": "SEM",
+            "isotope": "He3"
+        }
+    ],
+    "sniffs": [
+        {
+            "blob": "P5G3eEccd4VAD58wRxyeoEBW0slHHJYVQI72ykccvTJAsldORxxiiEDV8ChHHHxhQPmLPkccqiNBDnDfRxyibUEgOeJHHGGUQTHnfkccMfU=",
+            "detector": "Cup",
+            "isotope": "He4"
+        },
+        {
+            "blob": null,
+            "detector": "SEM",
+            "isotope": "He3"
+        }
+    ]
+}
