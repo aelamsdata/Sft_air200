@@ -1,0 +1,86 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 3,
+    "analysis_type": "unknown",
+    "analyst_name": "",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "c2dacc29adeea66f7bb22bca2fa2479daab09c7f",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "Cup": {
+            "deflection": 0.0,
+            "gain": 1.0
+        },
+        "SEM": {
+            "deflection": 0.0,
+            "gain": 0.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Test",
+    "experiment_type": "Generic",
+    "extraction": "sft_debug.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "1",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "Irradiation",
+    "irradiation_level": "Level",
+    "irradiation_position": 0,
+    "isotopes": {
+        "He3": {
+            "detector": "SEM",
+            "name": "He3",
+            "serial_id": "cdd"
+        },
+        "He4": {
+            "detector": "Cup",
+            "name": "He4",
+            "serial_id": "thermo"
+        }
+    },
+    "laboratory": "",
+    "latitude": "",
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": "",
+    "mass_spectrometer": "sft",
+    "material": "",
+    "measurement": "sft_he120_60.py",
+    "post_equilibration": "sft_post_eq_he.py",
+    "post_measurement": "sft_he.py",
+    "principal_investigator": "",
+    "project": "",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Sft_air200",
+    "rlocation": null,
+    "sample": "HeAir",
+    "source": {
+        "emission": 1353.483,
+        "trap": 398.532
+    },
+    "spec_sha": "2edcdf48a55044f6f936c11955d3f4fc7ec8deb0",
+    "timestamp": "2020-05-08T15:58:11.391581",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "",
+    "uuid": "17b7a0f2-ee98-41e7-90e4-af7983baef4f",
+    "whiff_result": null
+}
