@@ -1,0 +1,92 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "628f03f83c6001ba456847cefa36079dc899f047",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "Cup": {
+            "deflection": 0.0,
+            "gain": 1.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Load2",
+    "experiment_type": "Generic",
+    "extraction": "sft_debug.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "2",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "",
+    "irradiation_level": "",
+    "irradiation_position": "",
+    "isotopes": {
+        "He4": {
+            "detector": "Cup",
+            "name": "He4",
+            "serial_id": "thermo"
+        },
+        "Ne20": {
+            "detector": "Cup",
+            "name": "Ne20",
+            "serial_id": "thermo"
+        },
+        "Ne21": {
+            "detector": "Cup",
+            "name": "Ne21",
+            "serial_id": "thermo"
+        },
+        "Ne22": {
+            "detector": "Cup",
+            "name": "Ne22",
+            "serial_id": "thermo"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Sft",
+    "material": "Gas",
+    "measurement": "sft_ne_meas.py",
+    "post_equilibration": "sft_post_eq_ne_debug.py",
+    "post_measurement": "sft_ne_post_meas_debug.py",
+    "principal_investigator": "AELAMS",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Sft_air200",
+    "rlocation": "",
+    "sample": "NeAir",
+    "source": {
+        "emission": 1355.551,
+        "trap": 398.532
+    },
+    "spec_sha": "e4e725dcd53f84036940f8673f6d2162522d0849",
+    "timestamp": "2020-06-01T14:28:49.517022",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "root",
+    "uuid": "84c1f718-d728-470a-90bd-657c09a614cf",
+    "whiff_result": null
+}
