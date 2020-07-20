@@ -1,0 +1,18 @@
+{
+    "Cup": {
+        "center_dac": 0.33415500000000004,
+        "center_signal": 33030.4887153083,
+        "high_dac": 0.33458000000000004,
+        "high_resolving_power": 1114.9333333332497,
+        "high_signal": 4452.52494002312,
+        "low_dac": 0.33373,
+        "low_resolving_power": 953.8714285713824,
+        "low_signal": 5713.72543124517,
+        "points": "PqqC6MFiIH8+qol2wVzTZz6qkATBUg4tPqqWksFcw08+qp0fwVIIzz6qo63BTJYKPqqqO8FB8L8+qrDJwUHwvz6qt1bBIc+XPqq95MDi5ZA+qsRyP9HFeT6qyv9C0luyPqrRjUM5Wwo+qtgbRKCxoT6q3qlFso3OPqrlNkZh6AM+quvERqiN+T6q8lJGuG4SPqr430bLmfw+qv9tRuYqlj6rBftG86gmPqsMiUb7uZw+qxMWRwA5xD6rGaRHAQZ9PqsgMkcAFAE+qybARve/OD6rLU1G6wJUPqsz20ZkZds+qzppRiKAdz6rQPZGQvQOPqtHhEX1/y4+q04SRYskMz6rVKBE8rMT",
+        "resolution": 351.74210526315557
+    },
+    "fmt": ">ff",
+    "interpolation": "",
+    "reference_detector": "Cup",
+    "reference_isotope": "He4"
+}
