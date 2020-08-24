@@ -1,0 +1,18 @@
+{
+    "Cup": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "P+Dch0cdH1U/4N44RyrjBT/g3+lHN9fxP+DhmkdF3t4/4ONLR1gMGz/g5PxHX48DP+DmrUdsniY/4OheR3gjNT/g6g9Hg1Y+P+DrwEeK2f4/4O1xR5UjWz/g7yJHmqtUP+Dw00efDM8/4PKER6eXXj/g9DVHreNWP+D15keyHks/4PeXR70P1T/g+UhHw0heP+D6+UfKPLQ/4PyqR87noj/g/ltH0QQxP+EADEfWc0k/4QG8R982vT/hA21H4XnTP+EFHkfoAMc/4QbPR+nUzz/hCIBH7nfuP+EKMUfwb2Q/4QviR/Ktnz/hDZNH9SbCP+EPREf3Ytw/4RD1R/mRWQ==",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "",
+    "reference_detector": "Cup",
+    "reference_isotope": "Ne20"
+}
