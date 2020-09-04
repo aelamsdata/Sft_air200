@@ -1,0 +1,18 @@
+{
+    "Cup": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "PqrvXT88M24+qvYFvzP9rT6q/Kw/NthUPqsDVD822FQ+qwn7vyfxFz6rEKM/PYo0PqsXSj80Ksc+qx3yPy146T6rJJk/NYGOPqsrQT8pdJY+qzHoP0bpoz6rOJC/MqbyPqs/N78T3Bc+q0XfPzWBjj6rTIY/KXSWPqtTLj8wJnU+q1nWPzAmdT6rYH0/IWv0PqtnJT9AN8I+q23MvxfgSz6rdHS/HpH2Pqt7Gz9G6aM+q4HDPyFr9D6riGo//MbnPquPEkAHwyo+q5W5PybHCz6rnGFAALtgPqujCD/+yR8+q6mwQFQY5D6rsFdABRWHPqu2/0AGbFk+q72nP/rErj6rxE5AXXjmPqvK9kACvZk+q9GdQAXA8D6r2EVAB8MqPqve7EADE04+q+WUP/7JHz6r7DtAB212Pqvy4z//dIg+q/mKvxvkfz6sADI/MtQBPqwG2T85heE+rA2BPx6+aD6sFCg/OtynPqwa0D8xfTs+rCF4P0hAaj6sKB8/IWv0Pqwuxz9AN8I+rDVuQAZsWT6sPBY/PDNuPqxCvT8qy1w+rEllPzmF4Q==",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "",
+    "reference_detector": "Cup",
+    "reference_isotope": "He4"
+}
